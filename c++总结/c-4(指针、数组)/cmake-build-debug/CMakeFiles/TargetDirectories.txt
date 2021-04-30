@@ -1,0 +1,3 @@
+/Users/shijianfeng/CLionProjects/Learning/c-4(指针、数组)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shijianfeng/CLionProjects/Learning/c-4(指针、数组)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shijianfeng/CLionProjects/Learning/c-4(指针、数组)/cmake-build-debug/CMakeFiles/c_4.dir
