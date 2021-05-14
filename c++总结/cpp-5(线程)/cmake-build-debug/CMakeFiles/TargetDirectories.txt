@@ -1,0 +1,3 @@
+/Users/shijianfeng/CLionProjects/Learning/cpp-5(线程)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shijianfeng/CLionProjects/Learning/cpp-5(线程)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shijianfeng/CLionProjects/Learning/cpp-5(线程)/cmake-build-debug/CMakeFiles/cpp_5__.dir
